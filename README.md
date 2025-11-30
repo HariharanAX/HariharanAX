@@ -1,11 +1,19 @@
+👋 Hi, I'm Hariharan S
+
 AI & Data Science enthusiast passionate about building intelligent systems that turn data into actionable insights.
 
 ⚙️ Skills & Technologies
 
-Data Analytics Python, Sql, Numpy, Pandas, Matplot, Seaborn, Big Data, PowerBI, Excel
-Machine Learning Supervised learning, Unsupervised Learning, Clustering, Deep learning, NLP
-Generative AI LLM, GAN, Stable Diffusion, Prompt , Langchain, Time Series
-Agentic Ai Multi-Rag Agent, Langchain, Phidata, N8N
+Data Analytics: Python, SQL, NumPy, Pandas, Matplotlib, Seaborn, Big Data, Power BI, Excel
+
+Machine Learning: Supervised Learning, Unsupervised Learning, Clustering, Deep Learning, NLP
+
+Generative AI: LLMs, GANs, Stable Diffusion, Prompt Engineering, LangChain, Time Series
+
+Agentic AI: Multi-RAG Agents, LangChain, Phidata, n8n
+
+Databases: MySQL, PostgreSQL
+
 
 💼 Experience
 
@@ -19,9 +27,13 @@ Built practical ML workflows using KNIME and contributed to end-to-end AI projec
 
 ChatDB Pro – AI-powered SQL chatbot that converts natural language queries into SQL using Gemini Pro & PostgreSQL.
 
+Natural Language Translator – LSTM-based encoder–decoder translation model supporting 5+ language pairs.
+
 MultiPrompt Image QA (Gemini Pro) – Multimodal image question-answering tool built with Streamlit & Gemini Pro API.
 
 Spotify Streaming Dashboard – Real-time Power BI dashboard connected to the Spotify API for playlist & listening insights.
+
+Property Reviewer – Web app that aggregates property reviews from multiple sites and computes an accuracy-based score.
 
 📜 Certifications
 
